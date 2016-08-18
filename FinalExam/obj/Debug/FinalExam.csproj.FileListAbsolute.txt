@@ -1,0 +1,10 @@
+c:\users\justas\documents\visual studio 2015\Projects\FinalExam\FinalExam\bin\Debug\FinalExam.exe.config
+c:\users\justas\documents\visual studio 2015\Projects\FinalExam\FinalExam\obj\Debug\FinalExam.csprojResolveAssemblyReference.cache
+c:\users\justas\documents\visual studio 2015\Projects\FinalExam\FinalExam\bin\Debug\FinalExam.exe
+c:\users\justas\documents\visual studio 2015\Projects\FinalExam\FinalExam\bin\Debug\FinalExam.pdb
+c:\users\justas\documents\visual studio 2015\Projects\FinalExam\FinalExam\obj\Debug\FinalExam.exe
+c:\users\justas\documents\visual studio 2015\Projects\FinalExam\FinalExam\obj\Debug\FinalExam.pdb
+c:\users\justas\documents\visual studio 2015\Projects\FinalExam\FinalExam\bin\Debug\Newtonsoft.Json.dll
+c:\users\justas\documents\visual studio 2015\Projects\FinalExam\FinalExam\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\justas\documents\visual studio 2015\Projects\FinalExam\FinalExam\bin\Debug\Newtonsoft.Json.xml
+c:\users\justas\documents\visual studio 2015\Projects\FinalExam\FinalExam\bin\Debug\System.Net.Http.Formatting.xml
